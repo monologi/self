@@ -79,3 +79,13 @@ a:hover{
     margin-bottom: 24px;
     align-items: center;
 }
+
+.ig-place{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.ig-place img{
+    width: 20%;
+}
